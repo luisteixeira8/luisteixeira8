@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luís</h1>
-<h3 align="center">Software Developer Student</h3>
+<h3 align="center">A passionate Software Developer Student</h3>
 
-- 🔭 I’m currently working as a Intern **CostBits**
+- 🔭 I’m currently working as a Intern at **CostBits**
 
 - 📫 How to reach me **luisteixeira4402@gmail.com**
 
