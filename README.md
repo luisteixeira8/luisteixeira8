@@ -31,8 +31,8 @@ Currently, I am working as a **Software Developer intern** while looking for ful
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisteixeira8&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisteixeira8&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ---
