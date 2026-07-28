@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="670" viewBox="0 0 1180 670" role="img" aria-labelledby="title desc">
+  <title id="title">Luís Teixeira — IT Specialist</title>
+  <desc id="desc">Terminal-inspired GitHub profile card with an ASCII portrait, technology stack, interests and contact details.</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#8cb8d6" flood-opacity=".32"/>
+    </filter>
+    <linearGradient id="portraitGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a84e8" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#f8fcff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#c9e5f8" stroke-width="1" opacity=".32"/>
+    </pattern>
+  </defs>
+
+  <rect width="1180" height="670" rx="26" fill="#eaf5ff"/>
+  <rect x="14" y="14" width="1152" height="642" rx="20" fill="#f8fcff" stroke="#7bb9e8" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="15" y="15" width="1150" height="44" rx="19" fill="#edf7ff"/>
+  <path d="M15 42V59H1165V42" fill="#edf7ff"/>
+  <circle cx="40" cy="36" r="5" fill="#ff5f57"/>
+  <circle cx="59" cy="36" r="5" fill="#febc2e"/>
+  <circle cx="78" cy="36" r="5" fill="#28c840"/>
+  <text x="590" y="42" text-anchor="middle" fill="#58758e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">luisteixeira8 — profile</text>
+
+  <rect x="28" y="72" width="402" height="548" rx="18" fill="#edf7ff" stroke="#7bb9e8"/>
+  <rect x="28" y="72" width="402" height="548" rx="18" fill="url(#grid)"/>
+  <rect x="28" y="72" width="402" height="548" rx="18" fill="url(#portraitGlow)"/>
+  <text x="45" y="103" fill="#087ac1" opacity=".96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="650" xml:space="preserve">
+    <tspan x="45" y="103.0"> </tspan><tspan x="45" y="119.5"> </tspan><tspan x="45" y="136.0"> </tspan><tspan x="45" y="152.5">                =###*=</tspan><tspan x="45" y="169.0">           :*%@@@@@@@@@=</tspan><tspan x="45" y="185.5">          +@@@@@@@@@@@@%-</tspan><tspan x="45" y="202.0">         :@@@@@@@@@@@@@%:</tspan><tspan x="45" y="218.5">        .@@@@@@@%@@@@@@@+</tspan><tspan x="45" y="235.0">        #@@@@@@@%%%@@@@@@*</tspan><tspan x="45" y="251.5">        @@@@@@@@%%%%%%@@@*#</tspan><tspan x="45" y="268.0">        %@%@@@@@%%%%%@@@@+-</tspan><tspan x="45" y="284.5">        %@@@@@@@%%%%%%%@@+</tspan><tspan x="45" y="301.0">        +@@%%@@@@@@@@%%@@-</tspan><tspan x="45" y="317.5">         %@%%@@@@@@@@@@@@</tspan><tspan x="45" y="334.0">          @%%%@@@@@@@@@@%</tspan><tspan x="45" y="350.5">          =@%%@@@@@@@@%+</tspan><tspan x="45" y="367.0">         =*@%%%%@@@@@#:</tspan><tspan x="45" y="383.5">  .***@%%@@@@%%%@@@@@%%@=</tspan><tspan x="45" y="400.0">  +@@@%@%%%@@@%%@@%%@@@@@:</tspan><tspan x="45" y="416.5">==#@@@@@@@@%@@%@%@%#@@@@@%</tspan><tspan x="45" y="433.0">@@%%%%@@@@%#@%@@%@%#@@%%%%%##*=-</tspan><tspan x="45" y="449.5">%%%%%%%%%%##@%@@%@%#@%%%%%%%%%%@%+</tspan><tspan x="45" y="466.0">%%%%%%%%%%##%%@%%%##@%%%%%%%%%%%%%%:</tspan><tspan x="45" y="482.5">%%%%%%%%%%%#@@@%%%##%%%%%%%%%%%%%%@@-</tspan><tspan x="45" y="499.0">%%%%%%%%%%%@%@@%%%##%%%%@%%%%%%%%%%%%=</tspan><tspan x="45" y="515.5">%%%%%%%%%%%%%@@%%%##%%%%%%%%%%%%%@%@%%:</tspan><tspan x="45" y="532.0">%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%@%%%%</tspan><tspan x="45" y="548.5">%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%@@%%%%+ -</tspan><tspan x="45" y="565.0">%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%@@@%%%%%+=</tspan><tspan x="45" y="581.5">%%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%@@@%%%%%##</tspan>
+  </text>
+  <text x="48" y="598" fill="#005c9f" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">PORTRAIT / ASCII MODE</text>
+
+  <text x="472" y="103" fill="#102a43" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="26" font-weight="700">luís@teixeira</text>
+  <text x="472" y="128" fill="#005c9f" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">building useful systems where people and technology meet.</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="472" y="153" class="section" fill="#58758e" font-size="12" letter-spacing="2">IDENTITY ─────────────────────────────────────────</text>
+    <text x="472" y="177" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Role</tspan><tspan x="610" fill="#102a43">IT Specialist</tspan></text><text x="472" y="207" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Organization</tspan><tspan x="610" fill="#102a43">ESPRODOURO</tspan></text><text x="472" y="237" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">OS</tspan><tspan x="610" fill="#102a43">Windows  •  macOS</tspan></text><text x="472" y="267" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Editors</tspan><tspan x="610" fill="#102a43">VS Code  •  Devin</tspan></text>
+    <text x="472" y="307" class="section" fill="#58758e" font-size="12" letter-spacing="2">STACK ────────────────────────────────────────────</text>
+    <text x="472" y="331" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Programming</tspan><tspan x="610" fill="#102a43">C#  •  JavaScript  •  C++  •  Dart</tspan></text><text x="472" y="361" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Frameworks</tspan><tspan x="610" fill="#102a43">.NET  •  Node.js  •  Flutter</tspan></text><text x="472" y="391" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Web &amp; Data</tspan><tspan x="610" fill="#102a43">HTML  •  CSS  •  PostgreSQL  •  SQL Server</tspan></text><text x="472" y="421" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Toolbox</tspan><tspan x="610" fill="#102a43">Docker  •  Git  •  Firebase  •  FlutterFlow</tspan></text>
+    <text x="472" y="461" class="section" fill="#58758e" font-size="12" letter-spacing="2">OFFLINE / ONLINE ─────────────────────────────────</text>
+    <text x="472" y="485" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Focus</tspan><tspan x="610" fill="#102a43">AI  •  Mobile Technology  •  Web Systems</tspan></text><text x="472" y="515" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Hobbies</tspan><tspan x="610" fill="#102a43">Football  •  Music  •  DJing</tspan></text><text x="472" y="545" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Spoken</tspan><tspan x="610" fill="#102a43">Portuguese (Fluent)  •  English (Professional)</tspan></text>
+    <text x="472" y="577" class="section" fill="#58758e" font-size="12" letter-spacing="2">CONNECT ──────────────────────────────────────────</text>
+    <text x="472" y="601" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">Email</tspan><tspan x="610" fill="#102a43">luisteixeira4402@gmail.com</tspan></text><text x="472" y="631" class="row"><tspan fill="#58758e">› </tspan><tspan fill="#006fc4">LinkedIn</tspan><tspan x="610" fill="#102a43">linkedin.com/in/luis-teixeira8</tspan></text>
+  </g>
+  <style>
+    .row { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 15px; }
+  </style>
+</svg>
