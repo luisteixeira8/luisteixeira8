@@ -1,16 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="340" viewBox="0 0 1180 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="850" viewBox="0 0 1180 850" role="img" aria-labelledby="title desc">
   <title id="title">Luís Teixeira — terminal profile</title>
-  <desc id="desc">A dark terminal showing Luís's IT role, organization, interests and command-line style.</desc>
-  <rect width="1180" height="340" rx="22" fill="#080d0a"/>
-  <rect x="14" y="14" width="1152" height="312" rx="16" fill="#101813" stroke="#293a2f"/>
+  <desc id="desc">A dark terminal window containing Luís's role, introduction, technology stack, interests, contact details and profile tagline.</desc>
+  <rect width="1180" height="850" rx="22" fill="#080d0a"/>
+  <rect x="14" y="14" width="1152" height="822" rx="16" fill="#101813" stroke="#293a2f"/>
   <path d="M30 14h1120a16 16 0 0 1 16 16v35H14V30a16 16 0 0 1 16-16Z" fill="#17221b"/>
   <circle cx="39" cy="39" r="5" fill="#f47067"/><circle cx="58" cy="39" r="5" fill="#e5bd4d"/><circle cx="77" cy="39" r="5" fill="#57b879"/>
   <text x="590" y="43" text-anchor="middle" fill="#94a99a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">luisteixeira8 — profile</text>
   <path d="M14 65h1152" stroke="#293a2f"/>
-  <text x="64" y="105" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">whoami</tspan></text>
-  <text x="64" y="137" fill="#e2ebe4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">Luís Teixeira · IT Specialist @ ESPRODOURO</text>
-  <text x="64" y="183" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">interests --current</tspan></text>
-  <text x="64" y="215" fill="#e2ebe4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">AI · Mobile development · Web systems</text>
-  <text x="64" y="261" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">cat tagline.txt</tspan></text>
-  <text x="64" y="293" fill="#e2ebe4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">Building useful systems where people and technology meet.</text>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="64" y="118" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">whoami</tspan></text>
+    <text x="64" y="151" fill="#e2ebe4" font-size="17">Luís Teixeira · IT Specialist · ESPRODOURO</text>
+    <text x="64" y="210" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">cat about.txt</tspan></text>
+    <text x="64" y="243" fill="#e2ebe4" font-size="16">I work in IT and enjoy finding practical uses for software.</text>
+    <text x="64" y="272" fill="#e2ebe4" font-size="16">I'm especially interested in AI, mobile development and web systems.</text>
+    <text x="64" y="330" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">cat stack.txt</tspan></text>
+    <text x="64" y="364" fill="#e2ebe4" font-size="16">Languages       C# · JavaScript · C++ · Dart</text>
+    <text x="64" y="395" fill="#e2ebe4" font-size="16">Frameworks      .NET · Node.js · Flutter</text>
+    <text x="64" y="426" fill="#e2ebe4" font-size="16">Web &amp; data     HTML · CSS · PostgreSQL · SQL Server</text>
+    <text x="64" y="457" fill="#e2ebe4" font-size="16">Tools           Docker · Git · Firebase · FlutterFlow</text>
+    <text x="64" y="515" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">cat outside-work.txt</tspan></text>
+    <text x="64" y="549" fill="#e2ebe4" font-size="16">Football · Music · DJing</text>
+    <text x="64" y="606" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">contact</tspan></text>
+    <text x="64" y="640" fill="#e2ebe4" font-size="16">Email      luisteixeira4402@gmail.com</text>
+    <text x="64" y="671" fill="#e2ebe4" font-size="16">LinkedIn   linkedin.com/in/luis-teixeira8</text>
+    <text x="64" y="730" font-size="17"><tspan fill="#a8e59c">luis@github</tspan><tspan fill="#91a397">:~$ </tspan><tspan fill="#e2ebe4">cat tagline.txt</tspan></text>
+    <text x="64" y="764" fill="#e2ebe4" font-size="16">Building useful systems where people and technology meet.</text>
+  </g>
+  <path d="M14 808h1152" stroke="#293a2f"/>
+  <path d="M14 809h1152v11a16 16 0 0 1-16 16H30a16 16 0 0 1-16-16Z" fill="#17221b"/>
+  <text x="31" y="829" fill="#91a397" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">main</text>
+  <text x="1081" y="829" fill="#91a397" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">UTF-8</text>
 </svg>
